@@ -1,21 +1,22 @@
 ## Hi there!
 
-My name is Andrei Repo and I'm a Senior Quality Assurance Engineer! 👋
+My name is **Andrei Repo** and I'm a Senior Quality Assurance Engineer! 👋
 
 My passion is software quality and pushing it to the left.
 
-🔧 Technical Skills:
+### 🔧 Technical Skills:
 - Programming languages: Javascript/Typescript, Java, Python (in-progress...);
-- Testing tools: Playwright, Selenium Webdriver (old but gold), Cypress.IO, Postman, Insomnia;
+- Testing tools: Playwright, Cypress.IO, Selenium Webdriver, Postman;
 - Management tools: Jira, Zephyr, X-Ray, Basecamp;
 
-📞 Find me also in:
-LinkedIn
+### 📞 Find me also in:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/andrei-repo/)
 
 ### 🎧 I can talk a lot about
-🏍️ Motorcycle solo traveling
-🎹 Drumming
-🎮 Good single-player games
+- 🏠 Home automation
+- 🎹 Drumming
+- 🎮 Good single-player games
 
 <!---
 andreirepo/andreirepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
