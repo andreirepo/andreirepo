@@ -5,9 +5,9 @@ My name is **Andrei Repo** and I'm a Senior Quality Assurance Engineer! 👋
 My passion is software quality and pushing it to the left.
 
 ### 🔧 Technical Skills:
-- Programming languages: Javascript/Typescript, Java, Python (in-progress...);
-- Testing tools: Playwright, Cypress.IO, Selenium Webdriver, Postman;
-- Management tools: Jira, Zephyr, X-Ray, Basecamp;
+- **Programming languages:** Javascript/Typescript, Java, Python (in-progress...);
+- **Testing tools:** Playwright, Cypress.IO, Selenium Webdriver, Postman;
+- **Management tools:** Jira, Zephyr, X-Ray, Basecamp;
 
 ### 📞 Find me also in:
 
@@ -15,7 +15,6 @@ My passion is software quality and pushing it to the left.
 
 ### 🎧 I can talk a lot about
 - 🏠 Home automation
-- 🎹 Drumming
 - 🎮 Good single-player games
 
 <!---
