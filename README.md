@@ -1,23 +1,29 @@
-## Hi there!
+## 👋 Hi, I’m Andrei Repo
 
-👋 I’m **Andrei Repo**, a Senior Quality Assurance Engineer with a passion for mastering the latest DevOps methodologies and technologies. 
+I'm a **Senior QA Engineer** with 8+ years of experience breaking, fixing, and improving things — preferably with automation. Currently exploring the intersection of DevOps, Cloud, and Quality Engineering to build more resilient, scalable systems.
 
-### 🔨 My Skills:
-- **Scripting Languages:** JavaScript with TypeScript, BASH, Python
-- **Automation Tools:** Cypress, Playwright, XCUITest, Selenium
-- **DevOps Tools:** AWS, Docker, Ansible, Terraform, Prometheus
-- **CI/CD:** Jenkins, CircleCI, GitHub Actions
+## 🛠️ Tech Stack Highlights
 
-### 📱 Get in touch:
+### 💻 Programming & Scripting
+`JavaScript` `TypeScript` `Python` `Bash`
+
+### 🧪 Test Automation
+`Cypress` `Playwright` `Selenium` `XCUITest`
+
+### ☁️ DevOps & Infrastructure
+`AWS` `Docker` `Terraform` `Ansible` `Prometheus`
+
+## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/andrei-repo/)
 
-### 💬 We can chat about: 
-- 🏠 Home automation
-- 🔬 Homelabbing
-- 🎮 Story driven single-player games
+## 🧠 Ask Me About
+- 🧪 End-to-end test automation
+- 🧰 Building a reliable CI/CD pipeline
+- 🏡 Running a homelab or self-hosting cool tools
+- 🤖 Smart home setups and automations
 
-Thanks for stopping by!
+Thanks for stopping by — feel free to reach out or explore my repos!
 
 <!---
 andreirepo/andreirepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
