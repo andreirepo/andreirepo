@@ -1,29 +1,33 @@
-## 👋 Hi, I’m Andrei Repo
+**👋 Hi, I'm Andrei**
 
-I'm a **Senior QA Engineer** with 8+ years of experience breaking, fixing, and improving things — preferably with automation. Currently exploring the intersection of DevOps, Cloud, and Quality Engineering to build more resilient, scalable systems.
+I'm a **Senior QA Engineer** with 8+ years of experience building reliable test automation frameworks and integrating quality practices into CI/CD pipelines. Passionate about **expanding my expertise** into cloud infrastructure and DevOps to build more comprehensive, resilient testing solutions.
 
-## 🛠️ Tech Stack Highlights
+**🛠️ Tech Stack**
 
-### 💻 Programming & Scripting
-`JavaScript` `TypeScript` `Python` `Bash`
+**🧪 Quality Engineering**  
+`Cypress` `Playwright` `API Testing` `Performance Testing`
 
-### 🧪 Test Automation
-`Cypress` `Playwright` `Selenium` `XCUITest`
-
-### ☁️ DevOps & Infrastructure
+**☁️ Cloud & Infrastructure**  
 `AWS` `Docker` `Terraform` `Ansible` `Prometheus`
 
-## 📬 Let’s Connect
+**💻 Development**  
+`JavaScript` `TypeScript` `Python` `Bash`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/andrei-repo/)
+**🎯 Current Learning Focus**  
+☁️ AWS Solutions Architect Associate certification  
+🏗️ Infrastructure as Code for testing environments  
+📊 Monitoring and observability for quality engineering  
+🧪 Testing complex distributed systems
 
-## 🧠 Ask Me About
-- 🧪 End-to-end test automation
-- 🧰 Building a reliable CI/CD pipeline
-- 🏡 Running a homelab or self-hosting cool tools
-- 🤖 Smart home setups and automations
+<!---
+**🚀 Featured Projects**  
+[Cloud Resume Challenge](your-link) - AWS serverless architecture  
+[Infrastructure Automation](your-link) - Terraform + monitoring setup
+--->
 
-Thanks for stopping by — feel free to reach out or explore my repos!
+**📬 Let's Connect**  
+Always interested in discussing quality engineering, DevOps practices, and cloud architecture!
+
 
 <!---
 andreirepo/andreirepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
