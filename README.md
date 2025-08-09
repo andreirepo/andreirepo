@@ -14,10 +14,10 @@ I'm a **Senior QA Engineer** with 8+ years of experience building reliable test 
 `JavaScript` `TypeScript` `Python` `Bash`
 
 **🎯 Current Learning Focus**  
-☁️ AWS Solutions Architect Associate certification  
-🏗️ Infrastructure as Code for testing environments  
-📊 Monitoring and observability for quality engineering  
-🧪 Testing complex distributed systems
+- ☁️ AWS Solutions Architect Associate certification  
+- 🏗️ Infrastructure as Code for testing environments  
+- 📊 Monitoring and observability for quality engineering  
+- 🧪 Testing complex distributed systems
 
 <!---
 **🚀 Featured Projects**  
