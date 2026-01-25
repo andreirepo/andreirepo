@@ -5,7 +5,7 @@
 **🛠️ Tech Stack**
 
 **🧪 Quality Engineering**  
-`Cypress` `WebDriver.io` `Playwright` `API Testing` `Performance Testing`
+`Cypress` `WebdriverIO` `Playwright` `API Testing` `Performance Testing`
 
 **☁️ Cloud & Infrastructure**  
 `AWS` `Docker` `Terraform` `Ansible` `Prometheus`
@@ -13,16 +13,10 @@
 **💻 Development**  
 `JavaScript` `TypeScript` `Python` `Bash`
 
-**🎯 Current Learning Focus**  
-- Earning **AWS Solutions Architect** cert to design scalable test infra
-- Automating ephemeral test environments with **Terraform + AWS**
-- Instrumenting E2E tests with **Prometheus metrics** for quality observability
-
-<!---
-**🚀 Featured Projects**  
-[Cloud Resume Challenge](your-link) - AWS serverless architecture  
-[Infrastructure Automation](your-link) - Terraform + monitoring setup
---->
+**🎯 Current Focus**  
+- Designing scalable test infrastructure (working toward **AWS Solutions Architect**)  
+- Building ephemeral test environments with **Terraform + AWS**  
+- Enhancing E2E test observability via **Prometheus/Grafana** metrics
 
 **📬 Let's Connect**  
 Open to discussions on **quality engineering**, **DevOps**, and **cloud-native testing**!
