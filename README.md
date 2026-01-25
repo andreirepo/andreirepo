@@ -1,11 +1,11 @@
 **👋 Hi, I'm Andrei**
 
-I'm a **Senior QA Engineer** with 8+ years of experience building reliable test automation frameworks and integrating quality practices into CI/CD pipelines. Passionate about **expanding my expertise** into cloud infrastructure and DevOps to build more comprehensive, resilient testing solutions.
+**Senior QA Engineer** building reliable test automation frameworks and embedding quality into CI/CD pipelines. Expanding into **cloud infrastructure & DevOps** to create resilient, end-to-end testing solutions.
 
 **🛠️ Tech Stack**
 
 **🧪 Quality Engineering**  
-`Cypress` `Playwright` `API Testing` `Performance Testing`
+`Cypress` `WebDriver.io` `Playwright` `API Testing` `Performance Testing`
 
 **☁️ Cloud & Infrastructure**  
 `AWS` `Docker` `Terraform` `Ansible` `Prometheus`
@@ -26,7 +26,7 @@ I'm a **Senior QA Engineer** with 8+ years of experience building reliable test 
 --->
 
 **📬 Let's Connect**  
-Always interested in discussing quality engineering, DevOps practices, and cloud architecture!
+Open to discussions on **quality engineering**, **DevOps**, and **cloud-native testing**!
 
 
 <!---
