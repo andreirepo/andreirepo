@@ -14,10 +14,9 @@
 `JavaScript` `TypeScript` `Python` `Bash`
 
 **🎯 Current Learning Focus**  
-- ☁️ AWS Solutions Architect Associate certification  
-- 🏗️ Infrastructure as Code for testing environments  
-- 📊 Monitoring and observability for quality engineering  
-- 🧪 Testing complex distributed systems
+- Earning **AWS Solutions Architect** cert to design scalable test infra
+- Automating ephemeral test environments with **Terraform + AWS**
+- Instrumenting E2E tests with **Prometheus metrics** for quality observability
 
 <!---
 **🚀 Featured Projects**  
