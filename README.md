@@ -5,7 +5,7 @@
 **🛠️ Tech Stack**
 
 **🧪 Quality Engineering**  
-`Cypress` `WebdriverIO` `Playwright` `API Testing` `Performance Testing`
+`Playwright` `Cypress` `WebdriverIO` `API Testing` `Performance Testing`
 
 **☁️ Cloud & Infrastructure**  
 `AWS` `Docker` `Terraform` `Ansible` `Prometheus`
