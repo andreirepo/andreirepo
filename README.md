@@ -1,23 +1,23 @@
-**👋 Hi, I'm Andrei**
+👋 Hi, I'm Andrei
 
-**Senior QA Engineer** building reliable test automation frameworks and embedding quality into CI/CD pipelines. Expanding into **Quality Platform Engineering & DevOps** to create resilient, end-to-end testing solutions.
+Senior QA Engineer building reliable test automation frameworks and embedding quality into CI/CD pipelines. Expanding into Quality Platform Engineering & DevOps to create resilient, end-to-end testing solutions.
 
-**🛠️ Tech Stack**
+🛠️ **Tech Stack**  
 
 **Quality Engineering**  
-`Playwright` `Cypress` `WebdriverIO` `API Testing` `Performance Testing`
+`Playwright` `Cypress` `WebdriverIO` `API Testing` `Performance Testing`  
 
 **Cloud & Infrastructure**  
-`AWS` `Docker` `Terraform` `Ansible` `Prometheus`
+`AWS` `Docker` `Terraform` `Ansible` `Prometheus` `Kubernetes`  
 
 **Development**  
 `JavaScript` `TypeScript` `Python` `Bash`
 
-**Current Focus**  
+🚀 **Current Focus**  
 - Designing scalable test infrastructure (working toward **AWS Solutions Architect**)  
-- Learning **Kubernetes**
+- Orchestrating ephemeral test environments with **Kubernetes**  
 
-**📬 Let's Connect**  
-Open to discussions on **Quality Platform Engineering**, **DevOps**, and **Test Automation**!
+📫 **Let's Connect**  
+Open to discussions on Quality Platform Engineering, DevOps, and Test Automation!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreirepo)
