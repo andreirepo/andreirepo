@@ -16,8 +16,9 @@ Senior QA Engineer building reliable test automation frameworks and embedding qu
 🚀 **Current Focus**  
 - Designing scalable test infrastructure (working toward **AWS Solutions Architect**)  
 - Orchestrating ephemeral test environments with **Kubernetes**  
+- Engineering **AI-augmented test generation** with agent workflows and custom rules (e.g., context-aware selectors)
 
 📫 **Let's Connect**  
-Open to discussions on Quality Platform Engineering, DevOps, and Test Automation!
+Open to discussions on Quality Platform Engineering, DevOps, and Test Automation!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreirepo)
